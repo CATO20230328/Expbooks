@@ -111,7 +111,7 @@ const SocialButton = () => {
             rel='noreferrer'
             title={'QQ'}
             href={CONTACT_QQ}>
-            <i className='transform hover:scale-125 duration-150 fab a-brands fa-qq:text-indigo-400 hover:text-indigo-600' />
+            <i className='transform hover:scale-125 duration-150 fab a-brands fa-qq dark:hover:text-indigo-400 hover:text-indigo-600' />
           </a>
         )}
       </div>
