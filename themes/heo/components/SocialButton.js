@@ -17,7 +17,7 @@ const SocialButton = () => {
   const CONTACT_EMAIL = siteConfig('CONTACT_EMAIL')
   const ENABLE_RSS = siteConfig('ENABLE_RSS')
   const CONTACT_BILIBILI = siteConfig('CONTACT_BILIBILI')
-  const CONTACT_YOUTUBE = siteConfig('CONTACT_YOUTUBE')
+  const CONTACT_QQ = siteConfig('CONTACT_QQ')
 
   const emailIcon = useRef(null)
 
@@ -109,9 +109,9 @@ const SocialButton = () => {
           <a
             target='_blank'
             rel='noreferrer'
-            title={'youtube'}
-            href={CONTACT_YOUTUBE}>
-            <i className='transform hover:scale-125 duration-150 fab fa-youtube dark:hover:text-indigo-400 hover:text-indigo-600' />
+            title={'QQ'}
+            href={CONTACT_QQ}>
+            <i className='transform hover:scale-125 duration-150 fab a-brands fa-qq:text-indigo-400 hover:text-indigo-600' />
           </a>
         )}
       </div>
