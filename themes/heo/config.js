@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.expbook.vip' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '免费搭建个人网站站教程', url: 'https://www.expbook.vip/article/20260226' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'expbook.vip',
   HEO_HERO_TITLE_4: '精选教程',
   HEO_HERO_TITLE_5: '免费搭建属于自己的个人网站',
-  HEO_HERO_TITLE_LINK: 'https://www.expbook.vip',
+  HEO_HERO_TITLE_LINK: 'https://www.expbook.vip/article/20260226',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
