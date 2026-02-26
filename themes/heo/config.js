@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://www.expbook.vip' },
-    { title: '免费搭建个人网站站教程', url: 'https://www.expbook.vip/article/20260226' }
+    { title: '免费搭建个人网站教程', url: 'https://www.expbook.vip/article/20260226' }
   ],
 
   // 英雄区左右侧组件颠倒位置
