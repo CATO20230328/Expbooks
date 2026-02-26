@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'expbook.vip',
   HEO_HERO_TITLE_4: '精选教程',
   HEO_HERO_TITLE_5: '免费搭建属于自己的个人网站',
-  HEO_HERO_TITLE_LINK: 'https://www.expbook.vip/article/20260226',
+  HEO_HERO_TITLE_LINK: 'https://www.expbook.vip/article/免费搭建网站',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -82,7 +82,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Principle',
       img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
-      color_2: '#ffffff'
+      color_2: '#00ae42'
     },
     {
       title_1: 'illustrator',
@@ -98,7 +98,7 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'HTML',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#ffffff'
+      color_2: '#d52c1f'
     },
     {
       title_1: 'Git',
