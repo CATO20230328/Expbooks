@@ -43,52 +43,52 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.expbook.vip',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL1: 'juqiweiba@gmail.com',
+  HEO_INFO_CARD_ICON1: 'icon-youxiang2',
+  HEO_INFO_CARD_URL2: 'https://qm.qq.com/q/L2z9cRqes2',
+  HEO_INFO_CARD_ICON2: 'icon-qq',
   HEO_INFO_CARD_URL3: 'https://www.expbook.vip',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
+      title_1: 'AE',
       img_1: '/images/heo/AE_ICON.webp',
       color_1: '#00005b',
-      title_2: 'Sketch',
+      title_2: 'AI',
       img_2: '/images/heo/AI_ICON.webp',
       color_2: '#2e0402'
     },
     {
-      title_1: 'Docker',
+      title_1: 'Bambu Studio',
       img_1: '/images/heo/Bambu Studio_ICON.webp',
       color_1: '#00ae42',
-      title_2: 'Photoshop',
+      title_2: 'blender',
       img_2: '/images/heo/blender_ICON.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'FinalCutPro',
+      title_1: 'github',
       img_1: '/images/heo/github_ICON.webp',
       color_1: '#ffffff',
-      title_2: 'Python',
+      title_2: 'google',
       img_2: '/images/heo/google_ICON.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
+      title_1: 'jialichuan',
       img_1: '/images/heo/jialichuan_ICON.webp',
       color_1: '#ffffff',
-      title_2: 'Principle',
+      title_2: 'notion',
       img_2: '/images/heo/notion_ICON.webp',
       color_2: '#ffffff'
     },
     {
-      title_1: 'illustrator',
+      title_1: 'openai',
       img_1: '/images/heo/openai_ICON.webp',
       color_1: '#ffffff',
-      title_2: 'CSS3',
+      title_2: 'PS',
       img_2: '/images/heo/PS_ICON.webp',
       color_2: '#0a243a'
     },
@@ -101,10 +101,10 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Git',
+      title_1: 'switch',
       img_1: '/images/heo/switch_ICON.webp',
       color_1: '#f30103',
-      title_2: 'Rhino',
+      title_2: 'Vercel',
       img_2: '/images/heo/Vercel_ICON.webp',
       color_2: '#ffffff'
     }
