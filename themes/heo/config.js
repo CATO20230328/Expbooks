@@ -46,7 +46,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL1: 'juqiweiba@gmail.com',
   HEO_INFO_CARD_ICON1: 'icon-youxiang2',
   HEO_INFO_CARD_URL2: 'https://qm.qq.com/q/L2z9cRqes2',
-  HEO_INFO_CARD_ICON2: 'icon-qq',
+  HEO_INFO_CARD_ICON2: 'icon-qq1',
   HEO_INFO_CARD_URL3: 'https://www.expbook.vip',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
