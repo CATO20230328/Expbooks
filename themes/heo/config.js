@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false, 
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '网站资讯',
-  HEO_HERO_TITLE_2: '经验分享',
+  HEO_HERO_TITLE_1: '优质网站',
+  HEO_HERO_TITLE_2: '精品教程',
   HEO_HERO_TITLE_3: 'expbook.vip',
   HEO_HERO_TITLE_4: '精选教程',
   HEO_HERO_TITLE_5: '免费搭建属于自己的个人网站',
@@ -140,7 +140,7 @@ const CONFIG = {
 
   HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  HEO_ARTICLE_NOT_BY_AI: false, // 显示非AI写作
+  HEO_ARTICLE_NOT_BY_AI: true, // 显示非AI写作
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
