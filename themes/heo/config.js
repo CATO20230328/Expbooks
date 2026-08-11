@@ -39,7 +39,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'EXPBOOKS.COM',
   HEO_HERO_TITLE_4: '精选教程',
   HEO_HERO_TITLE_5: '免费搭建属于自己的个人网站',
-  HEO_HERO_TITLE_LINK: 'https://www.expbooks.com/article/免费搭建网站',
+  HEO_HERO_TITLE_LINK: 'https://www.expbooks.com/article/Build-a-Free-Personal-Website',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
